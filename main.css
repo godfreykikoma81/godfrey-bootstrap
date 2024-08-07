@@ -1,3 +1,4 @@
+/* used when resolution of screen is 768 0r above it will apply the with of 50% */
 @media(min-width:768px){
     .news-input{
         width: 50%;
