@@ -3,6 +3,11 @@ body::before{
     content: '';
     height: 60px;
 }
+#map{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
 
 /* used when resolution of screen is 768 0r above it will apply the with of 50% */
 @media(min-width:768px){
